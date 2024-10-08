@@ -1,3 +1,8 @@
+#Desafio 1- Resoulução
+## Instruções para Execução
+Link do site disponibilizado:https://tradicao-projetos-arquitetura.netlify.app/
+Link planilha de Registro de informação:https://docs.google.com/spreadsheets/d/1Us9OvpU65eOH5H6x-Z4LreYW_RweyGajyxDrzTspLgc/edit?usp=sharing
+
 # README - Minha Landing Page para Escola de Tecnologia
 
 ## Descrição do Projeto
@@ -45,8 +50,5 @@ text
 
 - O projeto foi hospedado no GitHub para facilitar o acesso e a visualização.
 
-## Instruções para Execução
 
-1. Clone ou baixe os arquivos do projeto.
-2. Abra o arquivo `index.html` em um navegador web.
-3. Preencha o formulário e clique em "Fale Conosco" para testar a integração com o Google Sheets.
+
