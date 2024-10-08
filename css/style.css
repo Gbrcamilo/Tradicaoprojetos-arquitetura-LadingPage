@@ -1,0 +1,134 @@
+* {
+    margin: 0px;
+    font-family: "Inter";
+    box-sizing: border-box;
+}
+
+/*Header inicio*/
+#header_container {
+    background-image: url(/img/banner_header.svg);
+    background-size: cover;
+    background-position: center;
+    height: 500;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 40px;
+}
+
+#title_header {
+    font-size: 60px;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+#paragraph_header {
+    color: #FFFFFF;
+    font-size: 20px;
+    max-width: 500px;
+}
+
+/*Statistics inicio*/
+
+.text_statistics_container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f9f9f9;
+}
+
+#number_statistics{
+    font-size: 40px;
+
+}
+
+.text_statistics {
+    margin: 0 10px;
+    margin-top: 75px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    font-size: 20px;
+
+}
+
+/*Job description inicio*/
+
+#jobdescription_conteiner {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+   
+}
+
+#title_jobdescription{
+       position: relative;
+        top: 250;
+        left: 77px;
+        text-align: center;
+        width: 150%;
+        max-width: 750px;
+        font-size: 30;
+}     
+#paragraph_jobdescription {
+    position: relative; 
+    top: 280;
+    left: 77px;
+    text-align: center;
+    width: 100%;
+    max-width: 750px;
+    font-size: 24px;
+   
+}
+
+#job_descripton_img {
+    position: relative;
+    top: 45;
+    left: 900;
+   
+    
+}
+
+/*Contact form inicio*/
+
+#contactform_conteiner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 40px 0;
+    background-color: #303030;
+}
+
+#title_contactform {
+    font-size: 2em;
+    margin: 25px;
+    color:#f9f9f9;
+}
+
+input {
+    width: 90%;
+    max-width: 350px;
+    height: 53px;
+    background-color:white;
+    margin: 15px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+button {
+    background-color: #C07212;;
+    height: 40px;
+    width: 90%;
+    max-width: 300px;
+    color: #EAECE5;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #6c3906;
+    transform: translateY(-5px);
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.2);
+    transition-duration: 0.5s;
+}
