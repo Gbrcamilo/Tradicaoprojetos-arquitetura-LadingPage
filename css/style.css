@@ -81,7 +81,7 @@
 
 #job_descripton_img {
     position: relative;
-    top: 45;
+    top: 25;
     left: 900;
    
     
@@ -118,12 +118,13 @@ input {
 button {
     background-color: #C07212;;
     height: 40px;
-    width: 90%;
+    width: 160;
     max-width: 300px;
     color: #EAECE5;
     border: 0px;
     border-radius: 5px;
     cursor: pointer;
+
 }
 
 button:hover {
