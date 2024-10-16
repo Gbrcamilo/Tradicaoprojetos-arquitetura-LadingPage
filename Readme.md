@@ -1,4 +1,3 @@
-#Desafio 1- Resoulução
 ## Instruções para Execução
 Link do site disponibilizado:https://tradicao-projetos-arquitetura.netlify.app/
 Link planilha de Registro de informação:https://docs.google.com/spreadsheets/d/1Us9OvpU65eOH5H6x-Z4LreYW_RweyGajyxDrzTspLgc/edit?usp=sharing
