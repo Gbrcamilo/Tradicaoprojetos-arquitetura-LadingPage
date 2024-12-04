@@ -14,6 +14,7 @@ CSS3: Estilização e formatação do layout, utilizando flexbox e grid para res
 JavaScript: Implementação da lógica para interatividade do formulário e validação de dados.
 Sheet Monkey: Integração com Google Sheets para armazenar os dados enviados pelo formulário.
 Google Fonts: Tipografia personalizada para melhorar a estética e a legibilidade.
+
 🗂 Estrutura do Projeto
 A estrutura do projeto está organizada conforme a seguir:
 
@@ -31,6 +32,7 @@ Copiar código
 │   └── job_description_model.svg  # Imagens utilizadas na página (logotipo, ícones, etc.)
 │
 └── index.html               # Arquivo HTML principal da página
+
 🚀 Etapas de Desenvolvimento
 Etapa 1: Layout com HTML e CSS
 Estruturei a página utilizando HTML para criar a organização básica, como cabeçalho, seções de conteúdo, e um formulário de contato.
@@ -40,10 +42,12 @@ Criei um formulário simples para que os visitantes possam enviar seu nome e e-m
 Configurei a integração com Sheet Monkey para que as informações do formulário fossem enviadas diretamente para uma planilha no Google Sheets para gerenciamento dos dados.
 Etapa 3: Disponibilização no GitHub
 O código do projeto foi disponibilizado no GitHub para fácil acesso e versão de controle. A versão hospedada foi integrada ao Netlify para visualização online.
+
 ⚙️ Funcionalidades Principais
 Formulário de Contato: Coleta informações do visitante (nome e e-mail) e envia para o Google Sheets.
 Responsividade: A página foi criada para ser visualizada adequadamente em dispositivos móveis, tablets e desktops.
 Design Clean e Moderno: Utiliza uma paleta de cores sóbria e fontes legíveis para uma experiência agradável.
+
 💡 Melhorias Futuras
 Implementar validação de campos no formulário para garantir que os dados inseridos sejam válidos antes de enviar.
 Adicionar animações e transições para melhorar a interatividade da página.
@@ -58,6 +62,7 @@ Copiar código
 git clone https://github.com/seu-usuario/landing-page-escola-tecnologia.git
 2. Executando o Projeto Localmente
 Abra o arquivo index.html em seu navegador para visualizar a página.
+
 📞 Contato
 Caso tenha dúvidas, sugestões ou queira contribuir com o projeto, entre em contato comigo através das redes sociais ou do e-mail disponível no site.
 
